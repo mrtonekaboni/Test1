@@ -8,3 +8,5 @@ def get_name(name):
     return f"hello {name}"
 
 print(get_name('ali'))
+
+print(f"hello world")
